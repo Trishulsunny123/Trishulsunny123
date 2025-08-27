@@ -89,7 +89,7 @@
 ##  Activity Graph
 <div align="center">
 
-![Trishul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Altriors&theme=tokyo-night&hide_border=true)
+![Trishul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=trishulsunny123&theme=tokyo-night&hide_border=true)
 
 </div>
 
