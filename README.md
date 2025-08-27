@@ -80,7 +80,7 @@
 ##  GitHub Trophies
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Altriors&theme=tokyonight&no-frame=true&column=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Trishulchakra&theme=tokyonight&no-frame=true&column=6)
 
 </div>
 
@@ -89,7 +89,7 @@
 ##  Activity Graph
 <div align="center">
 
-![Trishul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=trishulsunny123&theme=tokyo-night&hide_border=true)
+![Trishul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Trishulchakra123&theme=tokyo-night&hide_border=true)
 
 </div>
 
