@@ -67,11 +67,11 @@
 
 <div align="center">
 
-![Trishul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Altriors&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Trishul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trishul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Altriors&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trishul&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Altriors&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trishul&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -83,17 +83,6 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Trishulchakra&theme=tokyonight&no-frame=true&column=6)
 
 </div>
-
----
-
-##  Activity Graph
-<div align="center">
-
-![Trishul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Trishulchakra123&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
 
 ##  Connect With Me
 
